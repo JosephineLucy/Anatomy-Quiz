@@ -1,4 +1,4 @@
-# Anatomy Quiz
+# Quiz Game
 
 Welcome!
 
